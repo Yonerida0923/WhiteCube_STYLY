@@ -1,0 +1,2 @@
+# WhiteCube_STYLY
+WhiteCubeプロジェクトで作成したものをSTYLY上で動作できるようにする。
